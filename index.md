@@ -1,6 +1,6 @@
+{% include _config.yml %}
+
 # Example Progress Journal
-
-
 
 ## HW0 (October 26)
 
