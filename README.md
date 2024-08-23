@@ -1,3 +1,5 @@
+{% include _config.yml %}
+
 # Multiple Heuristic Optimization Methods (Course Assignments)
 **Institution:** Boğaziçi University
 **Course:** IE 582 - Statistical Learning for Data Mining  
