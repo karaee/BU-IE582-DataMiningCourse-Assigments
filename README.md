@@ -1,5 +1,5 @@
 # Multiple Heuristic Optimization Methods (Course Assignments)
-**Institution:** Boğaziçi University
+**Institution:** Boğaziçi University  
 **Course:** IE 582 - Statistical Learning for Data Mining  
 **Lecturer:** Dr. Mustafa Gökçe Baydoğan
 
