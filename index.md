@@ -1,6 +1,4 @@
-{% include _config.yml %}
-
-# Example Progress Journal
+# Emre Kara Progress Journal
 
 ## HW0 (October 26)
 
